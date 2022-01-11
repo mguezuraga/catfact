@@ -1,6 +1,9 @@
 # catfact
 A dummy Rust client to display random cat facts querying https://catfact.ninja/fact
 
+# Why?
+The goal of this project is to help *me* learn some Rust with a concrete yet simple use case.
+
 # Running via Cargo
 
 ```bash
